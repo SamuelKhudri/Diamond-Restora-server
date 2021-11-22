@@ -1,6 +1,6 @@
 Just open the powersell in VS code and type: npx-create-react-app review-website
 
-![front view of our website](https://i.ibb.co/ZNGmvJ5/Capture.png)
+
 
 
 # My live link
